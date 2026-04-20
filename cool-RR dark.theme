@@ -54,6 +54,8 @@ Size=Normal
 ColorizationColor=0X6B74B8FC
 Transparency=0
 VisualStyleVersion=10
+SystemMode=Dark
+AppMode=Dark
 
 [boot]
 SCRNSAVE.EXE=
