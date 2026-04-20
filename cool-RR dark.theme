@@ -71,7 +71,7 @@ IconMetrics=76 0 0 0 75 0 0 0 75 0 0 0 1 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0
 [Control Panel\Colors]
 Scrollbar=0 0 0
 Background=0 0 0
-ActiveTitle=0 0 128
+ActiveTitle=0 64 0
 InactiveTitle=64 64 64
 Menu=0 0 0
 Window=0 0 0
@@ -96,7 +96,7 @@ InfoText=200 200 200
 InfoWindow=0 0 0
 ButtonAlternateFace=192 192 192
 HotTrackingColor=128 128 255
-GradientActiveTitle=0 0 128
+GradientActiveTitle=0 64 0
 GradientInactiveTitle=64 64 64
 MenuHilight=128 0 128
 MenuBar=0 0 0
