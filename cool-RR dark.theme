@@ -71,7 +71,7 @@ NonclientMetrics=88 1 0 0 1 0 0 0 17 0 0 0 17 0 0 0 18 0 0 0 18 0 0 0 245 255 25
 LangID=1033
 IconMetrics=76 0 0 0 75 0 0 0 75 0 0 0 1 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 1 0 0 0 0 86 101 114 100 97 110 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0    
 [Control Panel\Colors]
-Scrollbar=0 0 0
+Scrollbar=20 20 20
 Background=0 0 0
 ActiveTitle=0 64 0
 InactiveTitle=64 64 64
